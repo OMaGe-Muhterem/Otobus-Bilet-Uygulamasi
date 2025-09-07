@@ -1,0 +1,9 @@
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\bin\Debug\OtobusBiletUygulaması.exe.config
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\bin\Debug\OtobusBiletUygulaması.exe
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\bin\Debug\OtobusBiletUygulaması.pdb
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.csprojAssemblyReference.cache
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.Form1.resources
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.Properties.Resources.resources
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.csproj.GenerateResource.cache
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.exe
+C:\Users\ps\Source\Repos\OtobusBiletUygulaması\obj\Debug\OtobusBiletUygulaması.pdb
